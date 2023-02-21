@@ -1,0 +1,25 @@
+.logo_principal{
+    display: $display-1;
+    justify-content: $justify-1;
+}
+#videos_ext{
+    display: $display-1;
+    justify-content: $justify-1
+}
+.productos1{
+    display: $display-1 ;
+    width: 350px;
+    height: 250px;
+    justify-content: $justify-1;
+    margin: $margin-1;
+    border-radius: $bordradius-1;
+    box-shadow: $boxshad-1;
+    cursor: pointer;
+}
+.imagenes{
+    display: $display-1;
+    width: 550px;
+    height: 450px;
+    justify-content: $justify-1;
+    margin: $margin-1;
+}

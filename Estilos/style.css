@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  font-family: "Roboto Condensed", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-image: url(../media/dark-abstract-carbon-background-black-mosaic-look-modern-texture-simple-metal-illustration-vector.jpg);
+}
+
+.logo_principal {
+  display: flex;
+  justify-content: center;
+}
+
+.titulos {
+  color: whitesmoke;
+  border: black;
+  font-weight: 750;
+  font-size: 50px;
+  text-align: center;
+}
+
+.subtitulos {
+  color: whitesmoke;
+  border: black;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+#videos_ext {
+  display: flex;
+  justify-content: center;
+}
+
+.parrafos_1 {
+  color: whitesmoke;
+  border: black;
+  font-weight: 250;
+  font-size: 19px;
+  line-height: 27px;
+  text-align: left;
+  padding: auto;
+  border-style: double;
+  margin: auto;
+  overflow: hidden;
+  background-color: rgba(210, 203, 203, 0.271);
+}
+
+.parrafos_2 {
+  color: whitesmoke;
+  border: black;
+  font-weight: 250;
+  font-size: 19px;
+  line-height: 27px;
+  text-align: left;
+  padding: auto;
+  border-style: double;
+  margin: auto;
+  overflow: hidden;
+  background-color: rgba(210, 203, 203, 0.271);
+}
+
+.contacto {
+  color: whitesmoke;
+}
+
+.contacto2 {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.productos1 {
+  display: flex;
+  width: 350px;
+  height: 250px;
+  justify-content: center;
+  margin: auto;
+  border-radius: 6px;
+  box-shadow: 0px 1px 5px;
+  cursor: pointer;
+}
+
+.propiedad {
+  color: whitesmoke;
+  border: black;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.subtitulo1 {
+  color: whitesmoke;
+  border: black;
+  font-weight: 450px;
+  font-size: 75px;
+  text-align: center;
+}
+
+.subtitulo2 {
+  color: whitesmoke;
+  border: black;
+  text-align: center;
+  font-weight: 100px;
+  font-size: 30px;
+}
+
+.subtitulo3 {
+  color: whitesmoke;
+  border: black;
+  font-weight: 300;
+  font-style: 21px;
+}
+
+.imagenes {
+  display: flex;
+  width: 550px;
+  height: 450px;
+  justify-content: center;
+  margin: auto;
+}
+
+/*# sourceMappingURL=style.css.map */

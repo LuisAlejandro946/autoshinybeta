@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    font-family: "Roboto Condensed", sans-serif;
+    text-decoration: none;
+    list-style: none;
+    padding: 0%;
+    margin: 0%; 
+}
+body{
+    background-image: url(../media/dark-abstract-carbon-background-black-mosaic-look-modern-texture-simple-metal-illustration-vector.jpg);
+}
+.titulos{
+    color: $color-letra1;
+    border: $border-1;
+    font-weight: $letra-titulos;
+    font-size: $font-titulos;
+    text-align: $alineacion-1;
+}
+.subtitulos{
+    color: $color-letra1;
+    border:$border-1;
+    font-weight: $letra-subtitulos;
+    font-size: $font-subtitulos;
+}
+.subtitulo1{
+    color: $color-letra1;
+    border: $border-1;
+    font-weight: $letra-subtgrandes;
+    font-size: $font-subtgrandes;
+    text-align: $alineacion-1;
+ }
+ .parrafos{
+    color: $color-letra1;
+    border: $border-1;
+    font-weight: $letra-parrafos;
+    font-size: $font-parrafos;
+    line-height: $lheight-1;
+    text-align: $alineacion-2;
+    padding: $paddin-1;
+    border-style: $borstyle-2;
+    margin: $margin-1;
+    overflow: $overflow-1;
+    background-color: $backgroundcolor-parrafos;
+}
+.sep-central{
+    color: $color-letra1;
+    display: $display-1;
+    text-align: $alineacion-1;
+    justify-content: $justify-1;
+    padding: $padding-1;
+    margin: $margin-1;
+}
+.propiedad{
+    color: $color-letra1;
+    border: $border-1;
+    font-weight: $letra-pie;
+    font-size: $font-pie;
+}
+.subtitulo3{
+    color: $color-letra1;
+    border: $border-1;
+    font-weight: $letra-subt2;
+    font-style: $font-subt2;
+}
+.contacto2{
+    color: $color-letra1;
+    display: $display-1;
+    text-align: $alineacion-1;
+    justify-content: $justify-1;
+    padding: $padding-1;
+    margin: $margin-1;
+}
